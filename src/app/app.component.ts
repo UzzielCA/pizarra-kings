@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
+import { PizarraComponent } from './pizarra/pizarra.component';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'pizarra-kings';
+  title = 'Pizarra Muertazos League';
 }

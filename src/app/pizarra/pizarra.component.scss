@@ -1,0 +1,13 @@
+.cancha {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: rgb(28, 28, 28);
+  
+    img {
+      max-width: 100%;
+      height: auto;
+      width: 100%;
+    }
+  }

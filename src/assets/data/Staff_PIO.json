@@ -1,0 +1,100 @@
+{
+    "id": 29,
+    "competitionId": 3,
+    "competition": {
+        "id": 3,
+        "name": "Kings League",
+        "countryId": 13,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/competition/8a26f986-bfc3-4ff9-93b7-4974a1071987/424069436.png"
+        },
+        "logo": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/competition/kl-short-logo.png"
+        },
+        "gender": "male",
+        "type": "club",
+        "international": false,
+        "category": "first",
+        "competitionType": "tournament",
+        "visible": true
+    },
+    "seasonClusterId": 2,
+    "name": "Kings League 2024/25 Split 5",
+    "displayName": "Split 5",
+    "start": "2025-02-02T00:00:00.000Z",
+    "finish": "2025-05-23T00:00:00.000Z",
+    "finished": false,
+    "image": {
+        "url": "https://kingsleague-cdn.kama.football/account/production/competitionSeason/3fa1811f-319e-4444-9c22-c4e7325e2c94/557535789.png"
+    },
+    "isCurrent": true,
+    "metaInformation": {
+        "position_legend": "[{\"color\": \"green\", \"placement\": \"playoff:semifinal\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"softOrange\", \"placement\": \"playoff:play-in\"},{\"color\": \"softOrange\", \"placement\": \"playoff:play-in\"},{\"color\": \"softOrange\", \"placement\": \"playoff:play-in\"},{\"color\": \"softOrange\", \"placement\": \"playoff:play-in\"}]",
+        "season_partners": "[{\"id\":1,\"imageUrl\":\"https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/adidas.svg\",\"name\":\"Adidas\",\"link\":\"#\",\"partnerType\":\"Technical Partner\",\"isFeatured\":false},{\"id\":9,\"imageUrl\":\"https://cms-es.kingsleague.pro/wp-content/uploads/2025/02/media-markt-white.png\",\"name\":\"Media Markt\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":5,\"imageUrl\":\"https://cms-it.kingsleague.pro/wp-content/uploads/2025/02/jd-white.png\",\"name\":\"JD\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":2,\"imageUrl\":\"https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/cupra-white.svg\",\"name\":\"Cupra\",\"link\":\"#\",\"partnerType\":\"Stadium Partner\",\"isFeatured\":false},{\"id\":10,\"imageUrl\":\"https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/logo-portbcn.svg\",\"name\":\"Port de Barcelona\",\"link\":\"#\",\"partnerType\":\"Hosting Partner\",\"isFeatured\":false}]"
+    },
+    "winnerTeamId": null,
+    "team": {
+        "id": 10,
+        "name": "PIO FC",
+        "shortName": "PIO",
+        "completeName": "PIO FC",
+        "countryId": 13,
+        "firstColorHEX": "#ffffff",
+        "secondColorHEX": "#000000",
+        "logo": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/team/image/540564111.png"
+        },
+        "inverseLogo": null,
+        "heroImage": null,
+        "heroVideo": null,
+        "metaInformation": {
+            "tiktok_url": "https://www.tiktok.com/@piofc",
+            "twitch_url": "https://www.twitch.tv/rivers_gg",
+            "twitter_url": "https://x.com/PIO_FC",
+            "instagram_url": "https://www.instagram.com/piofutbolclub",
+            "store_ad_link": "https://store.kingsleague.pro/collections/pio",
+            "store_image_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/12/pio.png",
+            "loop_video_poster": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/09/PIO-FC-1-scaled.jpg",
+            "kingdom_cup_team_id": "35"
+        },
+        "gender": "male",
+        "players": []
+    },
+    "staffs": [
+        {
+            "id": 167,
+            "shortName": "Àlex Solduga",
+            "firstName": "Àlex",
+            "middleName": null,
+            "lastName": "Solduga",
+            "role": "coach",
+            "countryId": 13,
+            "image": {
+                "url": "https://kingsleague-cdn.kama.football/account/production/staff/image/491945443.png"
+            },
+            "gender": "male",
+            "birthDate": "1989-10-07",
+            "metaInformation": null
+        },
+        {
+            "id": 176,
+            "shortName": "Rivers",
+            "firstName": "Samy",
+            "middleName": null,
+            "lastName": "Rivera",
+            "role": "president",
+            "countryId": 57,
+            "image": {
+                "url": "https://kingsleague-cdn.kama.football/account/production/staff/606665120.png"
+            },
+            "gender": "female",
+            "birthDate": null,
+            "metaInformation": {
+                "twitchId": "734906922",
+                "tiktokUsername": "rivers.gg",
+                "twitchUsername": "rivers_gg",
+                "youtubeChannelId": "UCW3bX8K5LuQHw8cKc3U8iUg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+[
+    {
+        "id": 15,
+        "shortName": "Álex Campuzano",
+        "role": "defender",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "4",
+        "birthDate": "2000-04-27",
+        "height": 179,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/190737589.png"
+        },
+        "metaInformation": {
+            "duels": "67",
+            "height": "179",
+            "skills": "73",
+            "status": "Draft",
+            "average": "74",
+            "defence": "80",
+            "passing": "75",
+            "physical": "75",
+            "position": "DF",
+            "shooting": "68",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/15-Álex-Campuzano",
+            "dominantFoot": "DER",
+            "currentLeague": "KL Spain"
+        },
+        "category": "draft",
+        "marketValue": 75
+    },
+    {
+        "id": 25,
+        "shortName": "Dani Pérez",
+        "role": "goalkeeper",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "25",
+        "birthDate": "1998-10-07",
+        "height": 180,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/985603420.png"
+        },
+        "metaInformation": {
+            "duels": "81",
+            "diving": "80",
+            "height": "180",
+            "status": "Draft",
+            "average": "82",
+            "kicking": "76",
+            "handling": "86",
+            "position": "PT",
+            "reflexes": "88",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/25-Dani-Pérez",
+            "anticipation": "74",
+            "dominantFoot": "DER",
+            "currentLeague": "KL Spain",
+            "goalkeeperPassing": "72"
+        },
+        "category": "draft",
+        "marketValue": 70
+    },
+    {
+        "id": 62,
+        "shortName": "Noel López",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "23",
+        "birthDate": "2000-05-10",
+        "height": 168,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/579804588.png"
+        },
+        "metaInformation": {
+            "duels": "71",
+            "height": "168",
+            "skills": "73",
+            "status": "Draft",
+            "average": "72",
+            "defence": "68",
+            "passing": "74",
+            "physical": "70",
+            "position": "MC",
+            "shooting": "72",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/62-Noel-López",
+            "dominantFoot": "IZQ",
+            "currentLeague": "KL Spain"
+        },
+        "category": "draft",
+        "marketValue": 75
+    },
+    {
+        "id": 109,
+        "shortName": "Joel Bañuls",
+        "role": "defender",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "3",
+        "birthDate": "2001-09-18",
+        "height": 173,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/548544089.png"
+        },
+        "metaInformation": {
+            "duels": "71",
+            "height": "173",
+            "skills": "74",
+            "status": "Draft",
+            "average": "80",
+            "defence": "83",
+            "passing": "83",
+            "physical": "84",
+            "position": "DF",
+            "shooting": "78",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/109-Joel-Bañuls",
+            "dominantFoot": "IZQ",
+            "currentLeague": "KL Spain"
+        },
+        "category": "draft",
+        "marketValue": 30
+    },
+    {
+        "id": 195,
+        "shortName": "Fernando Velillas",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "17",
+        "birthDate": "1986-07-21",
+        "height": 176,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/263454545.png"
+        },
+        "metaInformation": {
+            "duels": "85",
+            "height": "176",
+            "skills": "86",
+            "status": "Wildcard",
+            "average": "85",
+            "defence": "74",
+            "passing": "82",
+            "physical": "85",
+            "position": "DL",
+            "shooting": "89",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/195-Fernando-Velillas",
+            "dominantFoot": "DER",
+            "currentLeague": "KL Spain"
+        },
+        "category": "wildcard"
+    },
+    {
+        "id": 259,
+        "shortName": "Jandro Megía",
+        "role": "defender",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "5",
+        "birthDate": "1998-07-02",
+        "height": 183,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/790023278.png"
+        },
+        "metaInformation": {
+            "duels": "66",
+            "height": "183",
+            "injury": "true",
+            "skills": "74",
+            "status": "Draft",
+            "average": "72",
+            "defence": "75",
+            "passing": "73",
+            "physical": "72",
+            "position": "DF",
+            "shooting": "67",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/259-Jandro-Megía",
+            "dominantFoot": "IZQ",
+            "currentLeague": "KL Spain"
+        },
+        "marketValue": 40
+    },
+    {
+        "id": 289,
+        "shortName": "Iker González",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "8",
+        "birthDate": "2002-04-02",
+        "height": 175,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/497091860.png"
+        },
+        "metaInformation": {
+            "duels": "78",
+            "height": "175",
+            "skills": "70",
+            "status": "Draft",
+            "average": "76",
+            "defence": "73",
+            "passing": "73",
+            "physical": "85",
+            "position": "MC",
+            "shooting": "78",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/289-Iker-González",
+            "dominantFoot": "DER",
+            "currentLeague": "KL Spain"
+        },
+        "category": "draft",
+        "marketValue": 45
+    },
+    {
+        "id": 292,
+        "shortName": "Pablo Fernández",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "21",
+        "birthDate": "1996-05-30",
+        "height": 169,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/962321383.png"
+        },
+        "metaInformation": {
+            "duels": "69",
+            "height": "169",
+            "skills": "73",
+            "status": "Draft",
+            "average": "72",
+            "defence": "68",
+            "passing": "72",
+            "physical": "77",
+            "position": "MC",
+            "shooting": "72",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/292-Pablo-Fernández",
+            "dominantFoot": "DER",
+            "currentLeague": "KL Spain"
+        },
+        "category": "draft",
+        "marketValue": 40
+    },
+    {
+        "id": 34253,
+        "shortName": "Iván Dionisio",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "20",
+        "birthDate": "1988-10-09",
+        "height": 180,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/995192301.png"
+        },
+        "metaInformation": {
+            "duels": "74",
+            "skills": "71",
+            "status": "Draft",
+            "average": "73",
+            "defence": "70",
+            "passing": "73",
+            "physical": "73",
+            "position": "DL",
+            "shooting": "73",
+            "lastSplit": "3",
+            "matchLink": "https://youtu.be/n5zchLbrlZM",
+            "videoLink": "https://youtu.be/wwySdpnw8xU",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/34253-Iván-Dionisio",
+            "draftJersey": "168",
+            "draftOrigin": "2023",
+            "currentLeague": "KL Spain"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 52926,
+        "shortName": "Enric Avellaneda",
+        "role": "goalkeeper",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "1",
+        "birthDate": "1994-12-24",
+        "height": 196,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/178481483.png"
+        },
+        "metaInformation": {
+            "duels": "80",
+            "diving": "79",
+            "height": "196",
+            "status": "Draft",
+            "average": "77",
+            "handling": "77",
+            "position": "PT",
+            "reflexes": "74",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/52926-Enric-Avellaneda",
+            "anticipation": "76",
+            "dominantFoot": "DER",
+            "currentLeague": "KL Spain",
+            "goalkeeperPassing": "73"
+        },
+        "category": "draft",
+        "marketValue": 30
+    },
+    {
+        "id": 57736,
+        "shortName": "Joel Navas",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "22",
+        "birthDate": "1999-04-22",
+        "height": 175,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/969236775.png"
+        },
+        "metaInformation": {
+            "duels": "72",
+            "height": "175",
+            "skills": "62",
+            "average": "70",
+            "defence": "66",
+            "passing": "81",
+            "physical": "70",
+            "shooting": "66",
+            "matchLink": "https://youtu.be/y01vps9Imog",
+            "videoLink": "https://youtu.be/3ZoVaK9rNzg",
+            "draftJersey": "144",
+            "draftOrigin": "2024"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 57857,
+        "shortName": "Eric Lobato",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "9",
+        "birthDate": "2000-04-20",
+        "height": 175,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/510884908.png"
+        },
+        "metaInformation": {
+            "duels": "87",
+            "height": "175",
+            "skills": "87",
+            "status": "Draft",
+            "average": "84",
+            "defence": "76",
+            "passing": "89",
+            "physical": "71",
+            "shooting": "88",
+            "lastSplit": "4",
+            "matchLink": "https://youtu.be/a283pWCxBxg",
+            "videoLink": "https://youtu.be/-BclhoBmmWk",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/57857-Eric-Lobato",
+            "dominantFoot": "DER",
+            "currentLeague": "KL Spain"
+        },
+        "category": "draft",
+        "marketValue": 30
+    },
+    {
+        "id": 67744,
+        "shortName": "Luis García",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "10",
+        "birthDate": "1995-01-25",
+        "height": 169,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/408240253.png"
+        },
+        "metaInformation": {
+            "duels": "79",
+            "height": "169",
+            "skills": "83",
+            "status": "Wildcard",
+            "average": "82",
+            "defence": "80",
+            "passing": "84",
+            "physical": "81",
+            "position": "MC",
+            "shooting": "85",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/67744-Luis-García",
+            "currentLeague": "KL Spain"
+        },
+        "category": "wildcard"
+    },
+    {
+        "id": 67747,
+        "shortName": "Aridai Cabrera",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 13,
+        "jersey": "7",
+        "birthDate": "1988-09-26",
+        "height": 167,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/image/761874124.png"
+        },
+        "metaInformation": {
+            "duels": "81",
+            "false": "true",
+            "skills": "85",
+            "status": "Wildcard",
+            "average": "83",
+            "defence": "79",
+            "passing": "81",
+            "physical": "82",
+            "shooting": "87",
+            "lastSplit": "4",
+            "websiteUrl": "https://kingsleague.pro/es/jugadores/67747-Aridai-Cabrera",
+            "currentLeague": "KL Spain"
+        },
+        "category": "wildcard"
+    }
+]
