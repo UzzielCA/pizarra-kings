@@ -5,12 +5,16 @@
     </form>
 </section>
 
-<div class="cancha">
+<div class="cancha" (drop)="onDrop($event)" (dragover)="allowDrop($event)" style="position: relative;">
     <img src="../../assets/cancha_kings.svg" alt="">
+    <div *ngFor="let dropped of droppedPlayers" class="player-card-container" [style.left.px]="dropped.x" [style.top.px]="dropped.y" style="position: absolute;">
+      <img [src]="dropped.player.image.url" [alt]="dropped.player.shortName" loading="eager" sizes="(max-width: 640px) 122px, 128px">
+      <div class="player-number">#{{ dropped.player.jersey }}</div>
+    </div>
 </div>
-<section id="cards">
-    <div *ngFor="let player of players" class="player-card-container">
-      <a [href]="player.metaInformation.websiteUrl" class="">
+<section id="cards" >
+    <div *ngFor="let player of players" class="player-card-container" draggable="true" (dragstart)="onDragStart($event, player)">
+      <!-- <a [href]="player.metaInformation.websiteUrl" class=""> -->
         <div class="h-full relative z-[3]">
           <div class="clip-diagonal-right" style="background-image: linear-gradient(rgba(255, 255, 255, 0.6) 40%, rgba(0, 0, 0, 0.6) 100%);"></div>
           <div class="clip-diagonal-left" style="background-image: linear-gradient(rgba(255, 255, 255, 0.19) 0%, rgba(0, 0, 0, 0.19) 100%);"></div>
@@ -59,6 +63,6 @@
             </div>
           </div>
         </div>
-      </a>
+      <!-- </a> -->
     </div>
   </section>
